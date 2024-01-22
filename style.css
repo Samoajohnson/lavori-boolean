@@ -1,0 +1,77 @@
+body{
+  background-image: url('sfondo.jpg');
+  background-size:cover;
+}
+
+#sfondo-scuro{
+  background-color: black;
+  background: rgba(0, 0, 0, 0.6);
+  margin-right: 120px;
+  margin-left: 120px;
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+
+#first-div{
+  text-align: center;
+}
+
+#logo{
+  margin-top: 50px;
+width: 200px;
+height: 100px;
+text-align: center;
+display: inline-block;
+}
+
+h1{
+  color:RGB(124, 252, 0);
+}
+
+#second-div{
+  box-sizing: border-box;
+  background-color:RGB(124, 252, 0);
+  text-align: center;
+  margin-right: 100px;
+  margin-left: 100px;
+  padding:10px;
+}
+
+#third-div{
+  display: inline-block;
+  margin-left: 100px;
+  padding-top: 20px;
+  color: white;
+}
+
+.sottotitolo{
+  display: inline-block;
+}
+
+#rettangolo1 {
+	width:200px;
+	height:30px;
+	background:orange;
+}
+
+#rettangolo3{
+  width:100px;
+  height:30px;
+  background:red;
+  margin-bottom: 50px;
+}
+
+#rettangolo2{
+  width:400px;
+  height:30px;
+  background:green;
+}
+
+.sottotitolo{
+  margin-bottom: 0;
+  font-style: oblique;
+}
+
+footer{
+  margin-left: 120px;
+}
